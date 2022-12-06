@@ -1,6 +1,7 @@
 # Robot-Survival
 
-This is the source code and Visual Studio 2022 Project for the game Robot Survival, made with SDL 2 and C++. An executable version and more detailed description of the project can be found here on itch.io: https://duncand99.itch.io/robot-survival
+This is the source code and Visual Studio 2022 Project for the game Robot Survival, made with SDL 2 and C++. 
+An executable version and more detailed description of the project can be found here on itch.io: https://duncand99.itch.io/robot-survival
 
 In order to compile this project, you must install the libraries found in the Libraries.zip folder. 
 
