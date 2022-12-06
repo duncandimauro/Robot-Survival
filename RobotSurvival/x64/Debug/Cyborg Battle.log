@@ -1,0 +1,4 @@
+﻿  globals.cpp
+C:\Users\dunca\Desktop\Game Development\Cyborg Battle\Cyborg Battle\globals.cpp(4,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\dunca\Desktop\Game Development\Cyborg Battle\Cyborg Battle\globals.cpp(16,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Cyborg Battle.vcxproj -> C:\Users\dunca\Desktop\Game Development\Cyborg Battle\x64\Debug\Cyborg Battle.exe

@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\dunca\Desktop\Game Development\Cyborg Battle\Cyborg Battle\groupBox.h(15,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dunca\Desktop\Game Development\Cyborg Battle\Cyborg Battle\groupPosition.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dunca\Desktop\Game Development\Cyborg Battle\Cyborg Battle\GroupNumber.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dunca\Desktop\Game Development\Cyborg Battle\Cyborg Battle\groupString.h(14,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dunca\Desktop\Game Development\Cyborg Battle\Cyborg Battle\main.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  0 of 1034 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Cyborg Battle.vcxproj -> C:\Users\dunca\Desktop\Game Development\Cyborg Battle\x64\Release\Cyborg Battle.exe
