@@ -11,3 +11,5 @@ https://lazyfoo.net/tutorials/SDL/06_extension_libraries_and_loading_other_image
 
 
 An executable version and more detailed description of the project can be found here on itch.io: https://duncand99.itch.io/robot-survival
+
+Credit to Lazy Foo Productions and Matthew Carr for assets and learning resources
